@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>名为日常的监牢</title>
+    <link>https://was314.github.io</link>
+    <atom:link href="https://was314.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <description/>
+    <generator>Solo, v4.1.0, https://solo.b3log.org</generator>
+    <lastBuildDate>Fri, 10 Jul 2020 13:59:13 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <item>
+      <title>Docker 安装 FastDFS文件系统</title>
+      <link>https://was314.github.io/articles/2020/06/15/1592202237623.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2020/06/15/1592202237623.html</guid>
+      <category>fastdfs</category>
+      <category>docker</category>
+      <pubDate>Mon, 15 Jun 2020 14:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>mysql安装，修改加密方式</title>
+      <link>https://was314.github.io/articles/2020/04/20/1587363757721.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2020/04/20/1587363757721.html</guid>
+      <category>mysql</category>
+      <pubDate>Fri, 22 May 2020 14:26:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>MySQL 主从复制</title>
+      <link>https://was314.github.io/articles/2020/04/26/1587870114774.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2020/04/26/1587870114774.html</guid>
+      <category>mysql</category>
+      <pubDate>Sun, 26 Apr 2020 11:11:16 +0800</pubDate>
+    </item>
+    <item>
+      <title>Centos7.6安装配置</title>
+      <link>https://was314.github.io/articles/2020/04/20/1587365318814.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2020/04/20/1587365318814.html</guid>
+      <category>Centos</category>
+      <pubDate>Mon, 20 Apr 2020 15:26:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>CentOS7 安装 Redis</title>
+      <link>https://was314.github.io/articles/2019/10/10/1570675445009.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2019/10/10/1570675445009.html</guid>
+      <category>Centos</category>
+      <category>redis</category>
+      <pubDate>Mon, 20 Apr 2020 15:26:50 +0800</pubDate>
+    </item>
+    <item>
+      <title>Docker安装配置</title>
+      <link>https://was314.github.io/articles/2019/09/29/1569737828587.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2019/09/29/1569737828587.html</guid>
+      <category>docker</category>
+      <pubDate>Mon, 20 Apr 2020 14:32:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>融合平台环境搭建</title>
+      <link>https://was314.github.io/articles/2019/12/16/1576486414623.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2019/12/16/1576486414623.html</guid>
+      <category>环境搭建</category>
+      <pubDate>Mon, 16 Dec 2019 16:57:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>前端开发环境与打包</title>
+      <link>https://was314.github.io/articles/2019/12/09/1575875727942.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2019/12/09/1575875727942.html</guid>
+      <category>vue</category>
+      <pubDate>Mon, 09 Dec 2019 15:16:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>教师研修网自动点击</title>
+      <link>https://was314.github.io/articles/2019/11/05/1572920339762.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2019/11/05/1572920339762.html</guid>
+      <category>Tampermonkey</category>
+      <pubDate>Tue, 05 Nov 2019 11:24:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>Windows系统，定时重启，开机启动等</title>
+      <link>https://was314.github.io/articles/2019/10/24/1571893208031.html</link>
+      <description/>
+      <author>was314</author>
+      <guid>https://was314.github.io/articles/2019/10/24/1571893208031.html</guid>
+      <category>启动</category>
+      <category>重启</category>
+      <category>Windows</category>
+      <pubDate>Thu, 24 Oct 2019 13:00:08 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
